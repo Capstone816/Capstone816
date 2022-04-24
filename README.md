@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Capstone816
 - 👀 I’m interested in VR and AR and dapps and blockchain
-- 🌱 I’m currently learning stated above
-- 💞️ I’m looking to collaborate on making a football game
+- 🌱 I’m currently learning anything to do with Defi
 - 📫 How to reach me Whitefamily816@gmail.com 
 
 <!---
